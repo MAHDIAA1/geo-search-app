@@ -6,4 +6,4 @@ THE COER FEATHURES
 2. User can search for a plce of interest
 3. User can view a place of interest via Map
 4. User can see the Weather condition (Temperature, Humidity, Pressure and current weather) of a place
-5. it is responsive (obile view, Tablet view, Labtop view and Desktop view)
+5. it is responsive (Mobile view, Tablet view, Labtop view and Desktop view)
